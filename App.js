@@ -46,7 +46,7 @@ Ext.define('CustomApp', {
                 items: [
                     {
                         xtype  : 'rallybutton',
-                        text    : 'create a feature, set it\'s Parent to selected Initiative',
+                        text    : 'Create a Feature, set its Parent to selected Initiative',
                         itemId: 'createButton',
                         handler: function() {
                             that._getFeatureModel(); 
