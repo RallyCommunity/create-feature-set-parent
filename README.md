@@ -3,7 +3,13 @@ Create Feature,set Parent
 
 ## Overview
 
+Select Initiative:
+
 ![](pic.png)
+
+Click to create a new Feature:
+
+![](pic2.png)
 
 Note about the AppSDK version: the app is written with AppSDK2rc2. The combobox did not expand when AppSDK2rc3 is used.
 This app example is vailable AS IS. It is NOT supported by Rally.
