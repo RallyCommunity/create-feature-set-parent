@@ -1,18 +1,17 @@
-Create Feature,set Parent
+Create Feature, set Parent and Description
 =========================
 
 ## Overview
 
-Select Initiative:
+Select Initiative and leave or modify default Description in the text area and click to create a new Feature:
 
-![](pic.png)
+![](pic1.png)
 
-Click to create a new Feature:
+New Feature is created:
 
 ![](pic2.png)
 
-Note about the AppSDK version: the app is written with AppSDK2rc2. The combobox did not expand when AppSDK2rc3 is used.
-This app example is vailable AS IS. It is NOT supported by Rally.
+This app example is available AS IS. It is NOT supported by Rally.
 
 ## License
 
@@ -20,4 +19,4 @@ AppTemplate is released under the MIT license.  See the file [LICENSE](./LICENSE
 
 ##Documentation for SDK
 
-You can find the documentation on our help [site.](https://help.rallydev.com/apps/2.0rc3/doc/)
+You can find the documentation on our help [site.](https://help.rallydev.com/apps/2.0/doc/)
